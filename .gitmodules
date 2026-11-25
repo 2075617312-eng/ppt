@@ -1,0 +1,9 @@
+[submodule ".agents/skills/guizang-ppt-skill"]
+	path = .agents/skills/guizang-ppt-skill
+	url = https://github.com/op7418/guizang-ppt-skill.git
+[submodule ".agents/skills/html-ppt-studio"]
+	path = .agents/skills/html-ppt-studio
+	url = https://github.com/lewislulu/html-ppt-skill.git
+[submodule "vendor/ppt-master"]
+	path = vendor/ppt-master
+	url = https://github.com/hugohe3/ppt-master.git
